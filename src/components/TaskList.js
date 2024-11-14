@@ -269,7 +269,7 @@ const TaskList = () => {
             className="px-4 py-2 border rounded"
           >
             <option value="All">All Status</option>
-            <option value="not_due">Due</option>
+            <option value="due">Due</option>
             <option value="completed">Completed</option>
           </select>
           <button
